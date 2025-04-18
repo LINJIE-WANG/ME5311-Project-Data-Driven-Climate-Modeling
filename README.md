@@ -98,7 +98,7 @@ This project explores a data-driven framework combining **Principal Component An
 
 ## 📄 Report
 
-You can read the full report [here](./report/PROJECT.pdf)
+You can read the full report [here](./PROJECT.pdf)
 
 ---
 
